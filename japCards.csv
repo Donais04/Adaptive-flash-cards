@@ -1,0 +1,439 @@
+この,this + noun,0.0
+かばん,bag,0.0
+時計（とけい）,watch,0.0
+もいちど,please repeat that,0.0
+じゃ,“ok”,0.0
+イチゴ,strawberry,0.0
+リンゴ,apple,0.0
+料理（りょうり）,dish/meal,0.0
+紅茶（こうちゃ）,black tea,0.0
+お茶（おちゃ）,green tea,0.0
+どうぞ,“certainly; go ahead”,0.0
+こちらへどうぞ,“this; way please”,0.0
+午前（ごぜん）,AM,0.0
+午後（ごご）,PM,0.0
+ひろ,afternoon,0.0
+いや,not good,0.0
+たんじょうび,birthday,0.0
+今年（ことし）,this year,0.0
+月曜日（げつようび）,Monday,0.0
+火曜日（かようび）,Tuesday,0.0
+水曜日（すいようび）,Wednesday,0.0
+木曜日（もくようび）,Thursday,0.0
+金曜日（きんようび）,Friday,0.0
+土曜日（どようび）,Saturday,0.0
+日曜日（にちようび）,Sunday,0.0
+銀行（ぎんこう）,bank,0.0
+体育館（たいいくかん）,gym,0.0
+図書館（としょかん）,library,0.0
+病院（びょういん）,hospital,0.0
+郵便局（ゆうびんきょく）,post office,0.0
+授業（じゅぎょう）,class/lesson,0.0
+出かけます（でかけます）,to go somewhere,0.0
+休み（やすみ）,off/closed/rest,0.0
+花見（はなみ）,flower viewing,0.0
+祭り（まつり）,festival,0.0
+公園（こうえん）,park,0.0
+流下女性（りゅうがこせい）,exchange student,0.0
+春（はる）,spring,0.0
+夏（なつ）,summer,0.0
+秋（あき）,fall,0.0
+冬（ふゆ）,winter,0.0
+いつ,when,0.0
+だれ,who,0.0
+意味（いみ）,meaning,0.0
+思います（おもいます）,to think,0.0
+帰ります（かいります）,to return home,0.0
+朝（あさ）,morning,0.0
+夜（よる）,night,0.0
+より,more,0.0
+会社（かいしゃ）,company,0.0
+果物（くだもの）,fruit,0.0
+新聞（しんぶん）,newspaper,0.0
+起きます（おきます）,to wake up,0.0
+来ます（きます）,to come,0.0
+男（おとこ）,male,0.0
+女（おんな）,female,0.0
+北（きた）,north,0.0
+南（みなみ）,south,0.0
+東（ひがし）,east,0.0
+西（にし）,west,0.0
+飛行機（ひこうき）,airplane,0.0
+駅（えき）,train station,0.0
+歩いて（あるいて）,by foot,0.0
+きれい,pretty,0.0
+〜くらい,about,0.0
+教会（きょうかい）,church,0.0
+緑（みどり）,greenery,0.0
+新しい（あたらしい）,new,0.0
+古い（ふるい）,old,0.0
+甘い（あまい）,sweet,0.0
+苦い（にがい）,bitter,0.0
+ゆっくりします,relax,0.0
+やすみます,take a break,0.0
+シャワーを浴びます（あびます）,take a shower,0.0
+手伝います（てつだいます）,to help,0.0
+つけます,turn on,0.0
+消します（けします）,turn off,0.0
+いそぎます,rush,0.0
+てもいいです,(coming off of previous te form) it is ok to/you may,0.0
+てはいけません,(coming off of previous te form) you may not,0.0
+助けます（たすけます）,to help/save,0.0
+おります,get off (a ride),0.0
+あまり,not much,0.0
+左（ひだり）,left,0.0
+右（みぎ）,right,0.0
+借ります（かります）,to borrow,0.0
+武器（ぶき）,weapon,0.0
+明日（あした）,tomorrow,0.0
+昨日（きのう）,yesterday,0.0
+美術館（びじゅつかん）,art museum,0.0
+恋人（こいびと）,significant other,0.0
+今朝（けさ）,this morning,0.0
+先月（せんげつ）,last month,0.0
+去年（きょねん）,last year,0.0
+休みます（やすみます）,to take a rest/to sit,0.0
+風邪（かぜ）,cold (illness),0.0
+天気（てんき）,weather,0.0
+単語（たんご）,word/vocabulary,0.0
+まだ,not yet(use with te formstart sentence with it),0.0
+もう,already(start sentence with it),0.0
+作文（さくぶん）,essay,0.0
+試験（しけん）,test,0.0
+病気（びょうき）,illness,0.0
+薬（くすり）,medicine,0.0
+さびしい,lonely,0.0
+若い（わかい）,young,0.0
+終わる（おわる）,to end,0.0
+始まる（はじまる）,to start,0.0
+運動する（うんどうする）,to exercise,0.0
+散歩する（さんぽする）,to take a walk,0.0
+気温（きおん）,tempurature,0.0
+低い（ひくい),short,0.0
+はたらきます,work,0.0
+入ります（はいります）,to enter,0.0
+文（ぶん）,sentence,0.0
+子（こ）,child,0.0
+に(new particle),start with place+purpose+end with moving verb,0.0
+きます(no kanji),wear(shirt),0.0
+ぼうし,hat,0.0
+めがね,glasses,0.0
+はきます,wear(pants)(shoes),0.0
+かぶっています,wear(hat),0.0
+はい。おねがいします,yes please,0.0
+くつ,socks,0.0
+かみ,god/hair/paper,0.0
+電車（でんしゃ）,train,0.0
+便利（べんり）,conveinient,0.0
+Plain form + と思います。（とおもいます）,I think,0.0
+掛けます（かけます）,to call/wear(glasses),0.0
+かし,legs,0.0
+みみ,eyes,0.0
+あたま,head,0.0
+おそい,late,0.0
+親切（しんせつ）,caring,0.0
+しごと,occupation,0.0
+うん,yes (casual),0.0
+ううん,no (casual),0.0
+~かい,counter for floors/times,0.0
+最近（さいきん）,recently,0.0
+学食（がくしょく）,cafeteria,0.0
+質問（しつもん）,question,0.0
+優しい（やさしい）,kind,0.0
+黒い（くろい）,black,0.0
+白い（しろい）,white,0.0
+青い（あおい）,blue,0.0
+赤い（あかい）,red,0.0
+黄色い（きいろい）,yellow,0.0
+茶色い（ちゃいろい）,brown,0.0
+赤い（あかい）,red,0.0
+紫色（むらさき）,purple,0.0
+はれ,sunny,0.0
+くもり,cloudy,0.0
+ふります,weathering (typically in te i masu form),0.0
+そうじします,to clean(broom),0.0
+あらいます,to clean (hands/involving water),0.0
+事（こと）,thing (not necessarily physical),0.0
+いります,to need,0.0
+後（あと）,after,0.0
+～かな,I wonder/I wish,0.0
+選択します（せんたくします）,to do laundry,0.0
+温かい（あたたかい）,hot (weather),0.0
+涼しい（すずしい）,cold (weather),0.0
+うんてんします,to drive,0.0
+なります,become,0.0
+おそくなっりすみません,sorry I'm late,0.0
+次（つぎ）,next,0.0
+いじねる（な）,mean (lesser for evil),0.0
+すてる,to throw away,0.0
+外国人（がいこくじん）,foreigner,0.0
+verbの,ing (often used for like doing),0.0
+忘れます（わすれます）,forget,0.0
+覚えります（おぼえります）,learn/remember,0.0
+服（ふく）,clothes,0.0
+忙しい（いそじゃしい）,busy,0.0
+のります,to ride,0.0
+気持ちがいい（きもちがいい）,pleasant,0.0
+簡単な（かんたんな）,easy,0.0
+ひま,not busy,0.0
+今度（こんど）,next time/another time,0.0
+景色（けしき）,view,0.0
+自転車（じてんしゃ）,bicycle,0.0
+嫌いな（きらいな）,to dislike,0.0
+今週（こんしゅう）,this week,0.0
+来週（らいしゅう）,next week,0.0
+試合（しあい）,match,0.0
+地図（ちず）,map,0.0
+水着（みずぎ）,swimsuit,0.0
+野球（やきゅう）,baseball,0.0
+泳ぎます（およぎます）,to swim,0.0
+約束（やくそく）,promise,0.0
+用事（ようじ）,errand,0.0
+動物（どうぶつ）,animal,0.0
+どちら,which (polite),0.0
+妻ら（つまら）,wife,0.0
+安い（やすい）,easy,0.0
+しずか,quiet,0.0
+ついたち,first day of month,0.0
+口（くち）,exit/enterence/mouth,0.0
+どうして,why,0.0
+について,concerning,0.0
+たいせつ,important,0.0
+〜枚（まい）,counter for tickets,0.0
+一緒（いしょうに）,together,0.0
+焼肉（やきにく）,grilled meat,0.0
+居酒屋（いざかや） ,Japanese pub,0.0
+映画館（えいがかん）,movie theater,0.0
+阪鉄（さかてつ）,subway,0.0
+歌手（かしゅ）,singer,0.0
+凄い（すごい）,wow,0.0
+季節（きせつ）,season,0.0
+近い（ちかい）,near,0.0
+遠い（とおい）,far,0.0
+早い（はやい）,early/fast,0.0
+広い（ひろい）,wide,0.0
+全部（ぜんぶ）,all,0.0
+下手（へた）,bad at,0.0
+上手（じょうず）,good at,0.0
+大変（たいへん）,rough/difficult,0.0
+遊びます（あそびます）,play,0.0
+週末(しゅうまつ),weekend,0.0
+ぜひ,certainly,0.0
+解説（かいせつ）,examination of tickets,0.0
+降板（こうばん）,police box,0.0
+自動販売機（じどうはんばいき）,vending machine,0.0
+間（あいだ）,between,0.0
+中（なか）,inside,0.0
+しちげつ,7th month,0.0
+外（そと）,outside,0.0
+前（まえ）,front,0.0
+後ろ（うしろ）,behind,0.0
+うるさい,annoying/loud,0.0
+よくない,not good,0.0
+多い（おおい）,many,0.0
+ついたち,1st of month,0.0
+ふつか,2nd of month,0.0
+みっか,3rd of month,0.0
+よっか,4th of month,0.0
+いつか,5th of month,0.0
+むいか,6th of month,0.0
+なのか,7th of month,0.0
+ようか,8th of month,0.0
+ここのか,9th of month,0.0
+とおか,10th of month,0.0
+はつか,20th of month,0.0
+所（ところ）,place,0.0
+一昨日（おととい）,day before yesterday,0.0
+明後日（あさって）,day after tomorrow,0.0
+作ります（つくります）,make,0.0
+知ります（しります）,know,0.0
+そう,so,0.0
+よく,often/well,0.0
+彼女（かのじょ）,one's girlfriend,0.0
+言葉（ことば）,word,0.0
+別（べつ）,another/different,0.0
+おひさしぶりです,nice to see you again,0.0
+ひさしぶりだね,it's been a while; hasn't it,0.0
+と申します。（ともうします）, my name is,0.0
+立ちます（たちます）,stand,0.0
+呼びます（よびます）,call/name,0.0
+もっと,more,0.0
+後で（あとで）,later,0.0
+走ります（はしります）,run,0.0
+売ります（うります）,sell,0.0
+体（からだ）,body/physique,0.0
+すきでもきらいでもありまえん,don't have a strong opinion either way,0.0
+直ぐ（すぐ）,soon,0.0
+次（つぎ）,next,0.0
+土日（どにち）,weekend(casual),0.0
+美しい（うつくしい）,beutiful,0.0
+色（いろ）,color,0.0
+できる,can do,0.0
+先行（せんこう）,major,0.0
+御ちります（おちります）,fall,0.0
+病気（びょうき）,illness,0.0
+年（とし）,year,0.0
+重い（おもい）,heavy,0.0
+払います（はらいます）,pay,0.0
+軽い（かるい）,light (weight),0.0
+見つけります（みつけります）,find,0.0
+狭い（せまい）,narrow,0.0
+着ります（きります）,wear,0.0
+笑います（わらいます）,laugh,0.0
+探します（さがします）,look for,0.0
+紙（かみ）,paper,0.0
+遅い（おそい）,slow/late,0.0
+今月（こんげつ）,this month,0.0
+弱い（よわい）,weak,0.0
+座ります（すわります）,sit,0.0
+浴びる（あびる）,take (a shower),0.0
+部屋（へや）,room,0.0
+電子レンジ（でんしれんじ）,microwave,0.0
+時（とき）,when something,0.0
+冷蔵庫（れいぞうこ）,refridgerator,0.0
+佐藤（さとう）,sugar,0.0
+塩（しお）,salt,0.0
+天才（てんさい）,genius,0.0
+教室（きょしつ）,classroom,0.0
+もちろん,of course,0.0
+醤油（しょうゆ）,soy sauce,0.0
+お皿（おさら）,plate,0.0
+連れります（つれります）,to accompany,0.0
+はし,chopsticks,0.0
+どれ,which one,0.0
+どの,which,0.0
+君（きみ）,you/buddy/he/she,0.0
+気味（きみ）,feeling,0.0
+置きます（おきます）,to put,0.0
+貸します（かします）,to lend,0.0
+取ります（とります）,to take,0.0
+出します（だします）,to take out,0.0
+入れます（いれます）,to put in,0.0
+教えます（おしえます）,to teach,0.0
+必要（ひつよう）,need,0.0
+確かに(たしかに),surely,0.0
+歌う（うたう）,song,0.0
+かな,I wonder,0.0
+台所（だいどころ）,kitchen,0.0
+電話（でんわ）,phone,0.0
+窓（まど）,window,0.0
+歌います（うたいます）,to sing,0.0
+吸います（すいます）,to smoke,0.0
+持ちます（もちます）,to hold,0.0
+閉めます（しめます）,to close,0.0
+そろそろ,slowly/soon,0.0
+だけ,only,0.0
+本当(ほんと),true,0.0
+長身（ちょうしん）,parents,0.0
+兄弟（きょうだい）,siblings,0.0
+夫（おっと）,husband,0.0
+妻（つま）,wife,0.0
+子供（こども）,child,0.0
+息子（むすこ）,son,0.0
+娘（むすめ）,daughter,0.0
+医者（しゃ）,doctor,0.0
+七月(しちがつ),seventh month,0.0
+〜引き（ひき）,counter for animals,0.0
+びき,counter for small animals,0.0
+ぴき,counter for small animals,0.0
+ご主人（ごしゅじん）,husband (someone else’s),0.0
+奥さん（おくさん）,wife (someone else’s),0.0
+先輩（せんぱい）,senior,0.0
+後輩（こうはい）,junior,0.0
+うさぎ ,rabbit,0.0
+どうする,what do you want me to do,0.0
+頭がいい（あたまがいい）,clever,0.0
+かっこいい,good looking,0.0
+こえ,voice,0.0
+差が高い（さがたかい）,tall,0.0
+長い（ながい）,long,0.0
+短い（みじかい）,short,0.0
+まじめ ,serious,0.0
+上手（じょうず）,good at,0.0
+下手（へた）,not good at,0.0
+傘（かさ）,umbrella,0.0
+靴下（くつした）,socks,0.0
+手紙（てがみ）,letter,0.0
+そば（そば）,grandmother,0.0
+~しき,formal celebration (of ~),0.0
+結婚式（けっこんしき）,wedding,0.0
+何か（なにか）,something,0.0
+送ります（おくります）,to send,0.0
+もらいます,to recieve,0.0
+あげます,to give,0.0
+四月（しがつ）,fourth month,0.0
+くれます,to give me,0.0
+少なくとも（すくなくとも）,less than,0.0
+少ない（すくない）,few,0.0
+もうすぐ,soon,0.0
+終わる(おわる),to be over,0.0
+よかってですね,sounds good,0.0
+退職（たいしょく）,retired,0.0
+(お)菓子（かし）,candy,0.0
+切手（きって）,postage stamp,0.0
+釣り（つり）,fishing,0.0
+最近（さいきん）,recently,0.0
+料理（りょうり）,cooking,0.0
+集めます（あつめます）,to collect/gather,0.0
+運転します（うんてんします）,to drive,0.0
+特に（とくに）,especially,0.0
+いつも,always,0.0
+時々（ときどき）,sometimes,0.0
+あまり,not much,0.0
+書道（しょどう）,calligraphy,0.0
+習います（ならいます）,to learn,0.0
+乗ります（のります）,to ride,0.0
+入ります（はいります）,to join,0.0
+いろいろ,a variety of,0.0
+電話番号（でんわばんごう）,phone number,0.0
+〜番,number,0.0
+言います（いいます）,say,0.0
+引,pull,0.0
+払います（はらいます）,pay,0.0
+どうやって,how,0.0
+楽しみです,looking forward to,0.0
+会話（かいわ）,conversation,0.0
+作文（さくぶん）,essay,0.0
+雑誌（ざっし）,magazine,0.0
+日記（にっき）,diary,0.0
+平日（へいじつ）,weekday,0.0
+通います（かよいます）,to communicate,0.0
+忘れます（わすれます）,to forget,0.0
+寂しい（さびしい）,lonely,0.0
+眠い（ねむい）,sleepy ,0.0
+なかな,quite,0.0
+ええ,yes (informal),0.0
+外国（がいこく）,foreign country,0.0
+体（からだ）,body,0.0
+足（あし）,foot,0.0
+顔（かお）,face,0.0
+髪（かみ）,hair,0.0
+口（くち）,mouth,0.0
+鼻（はな）,nose,0.0
+目（め）,eye,0.0
+耳（みみ）,ear,0.0
+胸（むね）,chest,0.0
+首（くび）,neck,0.0
+洗車（せんしゃ）,athlete,0.0
+祖父（そふ）,own grandfather,0.0
+別れます（わかれます）,to separate,0.0
+だんだん,gradually,0.0
+初めて（はじめて）,for the first time,0.0
+消します（けします）,to turn on,0.0
+つけます ,to turn off,0.0
+うん,yes (informal),0.0
+ううん,no (informal),0.0
+ごめん,I’m sorry (informal),0.0
+そっか,I see,0.0
+また,again,0.0
+お店（おみせ）,store,0.0
+人気（にんき）,popular,0.0
+おかわねもち,rich,0.0
+茫と（ぼうと）,phased out,0.0
+材料（ざいりょう）,ingredients ,0.0
+場所（ばしょ）,place,0.0
+どこか,somewhere,0.0
+練習します（れんしゅうします）,practice,0.0
+みんなで,with everyone,0.0
+手袋（てぶくろ）,gloves,0.0
+毛糸（けいと）,wool,0.0
